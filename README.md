@@ -6,17 +6,17 @@ Uploader to course https://github.com/angular-university/firebase-course
 
 2. Than prepare empty Angular project
 
-# ng new AngularFirebaseUploader
+> ng new AngularFirebaseUploader
 
 3. Than install NodeJs library
 
-# npm i
-# npm i firebase
-# npm install -g ts-node typescript '@types/node'  ( -g need to use your windows admin account)
+> npm i
+> npm i firebase
+> npm install -g ts-node typescript '@types/node'  ( -g need to use your windows admin account)
 
 4. And finally run typescript as console application
 
-# npx ts-node init-db.ts
+> npx ts-node init-db.ts
 
 5. Result must be similar:
 
