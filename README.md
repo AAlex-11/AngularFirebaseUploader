@@ -1,4 +1,8 @@
-Uploader to course https://github.com/angular-university/firebase-course
+Currently builk upload document to Firebase is impossible without money.
+
+![BulkUpload-2](https://github.com/AAlex-11/AngularFirebaseUploader/assets/138773344/ce678ecf-7541-4864-85f8-15d6de7544fa)
+
+Therefore I have write example of bulk uploader with this data https://github.com/angular-university/firebase-course
 
 1. Create Firebase project and install your Firebase identity to project
 
