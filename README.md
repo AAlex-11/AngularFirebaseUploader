@@ -12,7 +12,7 @@ Uploader to course https://github.com/angular-university/firebase-course
 
 > npm i                      
 > npm i firebase                              
-> npm install -g ts-node typescript '@types/node'  ( -g need to use your windows admin account)                            
+> npm install -g ts-node typescript '@types/node'  ( -g need to use your windows admin account - "Start-Process powershell -verb runas")                            
 
 4. And finally run typescript as console application                     
 
